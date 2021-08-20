@@ -1,4 +1,4 @@
-# Resultado1 - Efecto de las cuarentenas sobre dinámica espacio-temporal de COVID-19 en Chile
+# Resultado1 - Efecto de las cuarentenas sobre la dinámica espacio-temporal de COVID-19 en Chile
 
 Este repositório incluye todo lo necesário para la reprodución del [Resultado 1 - Efecto de las cuarentenas](https://www.desarrollate.cl/epicovid_bk/?lang=es). A continuación usted puede encontrar la descripción de los archivos:
 
